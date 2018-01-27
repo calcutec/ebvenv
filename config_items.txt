@@ -1,0 +1,20 @@
+config_items.txt
+
+Environment details for: fe-eb-site-dev
+  Application name: fe_eb_site
+  Region: us-east-1
+  Deployed Version: app-0506-180125_214309
+  Environment ID: e-pzmxj9m2fb
+  Platform: arn:aws:elasticbeanstalk:us-east-1::platform/Python 3.6 running on 64bit Amazon Linux/2.6.4
+  Tier: WebServer-Standard-1.0
+  CNAME: fe-eb-site-dev.us-east-1.elasticbeanstalk.com
+  Updated: 2018-01-26 02:43:14.789000+00:00
+
+INFO: createEnvironment is starting.
+INFO: Using elasticbeanstalk-us-east-1-477846498871 as Amazon S3 storage bucket for environment data.
+INFO: Created security group named: sg-7d9a740a
+INFO: Created security group named: awseb-e-pzmxj9m2fb-stack-AWSEBSecurityGroup-Y992P9CVTZMR
+INFO: Created load balancer named: awseb-e-p-AWSEBLoa-70PJG8N8BY81
+INFO: Created Auto Scaling launch configuration named: awseb-e-pzmxj9m2fb-stack-AWSEBAutoScalingLaunchConfiguration-1QIBKCKGJSXPC
+INFO: Created RDS database security group named: awseb-e-pzmxj9m2fb-stack-awsebrdsdbsecuritygroup-h4b93yg83rax
+INFO: Creating RDS database named: aa1evi0i3gxa44x. This may take a few minutes.
