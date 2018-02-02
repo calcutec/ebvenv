@@ -1,4 +1,4 @@
-Django==1.11.9
+Django==2.0.1
 Mako==1.0.7
 pytz==2017.3
 psycopg2==2.7.3.2
