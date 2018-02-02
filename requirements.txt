@@ -1,6 +1,7 @@
 Django==2.0.1
 Mako==1.0.7
-pytz==2017.3
+MarkupSafe==1.0
 psycopg2==2.7.3.2
-# pyodbc==4.0.22
-# django-pyodbc-azure==1.11.0.0
+pytz==2017.3
+# pyodbc=4.0.22
+# django-pyodbc-azure==2.0.1.0
