@@ -3,6 +3,7 @@
 ebvenv/
 *.pyc
 db.sqlite3
+./fabfile/
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
